@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Random Kanji Generator](https://robinallenaz.github.io/Random-Kanji-Generator/)
 
-- 📫 How to reach me **robin.allen.az@gmail.com**
+- 📫 How to reach me: **robin.allen.az@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
