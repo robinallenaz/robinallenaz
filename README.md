@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinallenaz&label=Profile%20views&color=0e75b6&style=flat" alt="robinallenaz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robinallenaz" alt="robinallenaz" /></a> </p>
-
 - 🔭 I’m currently working on [Random Kanji Generator](https://robinallenaz.github.io/Random-Kanji-Generator/)
 
 - 📫 How to reach me: **robin.allen.az@gmail.com**
