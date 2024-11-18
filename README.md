@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinallenaz&label=Profile%20views&color=0e75b6&style=flat" alt="robinallenaz" /> </p>
 
-- 🔭 I’m currently working on [Random Kanji Generator]([https://robinallenaz.github.io/Random-Kanji-Generator/](https://gengogateway.netlify.app/))
+- 🔭 I’m currently working on [Random Kanji Generator](https://gengogateway.netlify.app/)
 
 - 📫 How to reach me: **robin.allen.az@gmail.com**
 
